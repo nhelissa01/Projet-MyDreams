@@ -20,7 +20,7 @@ Nhel's Pizza est une petite entreprise de vente de pizza. Pour pouvoir mettre en
 </p>
 
 <p align='center'>
-<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/mydreams.png"/>
+<img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/emprunt.png"/>
 </p>
 
 <p align='center'>
