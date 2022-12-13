@@ -1,7 +1,7 @@
 # Projet-MyDreams
 
 ## Contexte
-### Développement d'une application informatique complète de gestion de prêt
+Développement d'une application informatique complète de gestion de prêt
 dans une entreprise. Cette application est connecté a un Systeme de gestion de
 base de données relationnelle et permet de gérer efficacement diverses
 transactions (emprunts, remboursement etc..).
@@ -20,7 +20,7 @@ transactions (emprunts, remboursement etc..).
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png"/>
 </p>
 
-##Contraintes
+## Contraintes
 1. Les emprunteurs doivent payer un intérêt de 4.5% sur le montant total du prêt. Un groupe ne peut avoir qu’un seul prêt en cours.
 2. Chaque prêt doit être remboursé en 4 versements (versement 1,…. Versement 4) égaux, sur une période de 5 mois (pas de remboursement durant le 1er mois du prêt).
 3. Le premier versement doit être effectué à partir du 2e mois après la date du prêt.
