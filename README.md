@@ -11,8 +11,8 @@ Nhel's Pizza est une petite entreprise de vente de pizza. Pour pouvoir mettre en
 ## Contenue
 ### Le site web est compose d'une page d'accueil
 
-# ![nhelissa01]([https://github.com/nhelissa01/Projet-MyDreams/blob/main/src/Icon/28-star.png](https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/mydreams.png))
-# ![nhelissa01](https://github.com/nhelissa01/Projet-MyDreams/blob/main/src/Icon/28-star.png)
+# ![nhelissa01](https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/mydreams.png)
+# ![nhelissa01](https://github.com/nhelissa01/Projet-MyDreams/blob/main/views/interface2.png)
 # ![nhelissa01](https://github.com/nhelissa01/Projet-MyDreams/blob/main/src/Icon/28-star.png)
 # ![nhelissa01](https://github.com/nhelissa01/Projet-MyDreams/blob/main/src/Icon/28-star.png)
 # ![nhelissa01](https://github.com/nhelissa01/Projet-MyDreams/blob/main/src/Icon/28-star.png)
